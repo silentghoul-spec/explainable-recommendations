@@ -1,4 +1,4 @@
-# explainable-recommendations
+# explainable-recommendations (co-attentive multi-task learning for explainable recommendation) 
 This repository is consists codes for our final project done during "Deep Learning for language processing" (CSA-E0 334) course in Indian Institute of Science Bangalore.
 
 Implementation of NRT ,CAML, and extended CAML in tensorflow 2.2. \
